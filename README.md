@@ -138,7 +138,7 @@ const shubham = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-rosy-xi.vercel.app/api?username=shubham03062002&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
+ <img height="180em" src="https://github-readme-stats-rosy-xi.vercel.app/api?username=shubham03062002&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
   &nbsp;
  <img height="180em" src="https://github-readme-stats-rosy-xi.vercel.app/api/top-langs/?username=shubham03062002&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff&langs_count=8" />
 </p>
